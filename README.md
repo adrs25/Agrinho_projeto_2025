@@ -1,0 +1,1 @@
+esse projeto tirei do gemini foi bem complicado fazer nesse jogo usa tre teclas enter, ç , d. Essas teclas ç e d são usadas para movimentar os pontinhos até a linha de chegada ele representa uma corrida entre o canpo e a cidade.
